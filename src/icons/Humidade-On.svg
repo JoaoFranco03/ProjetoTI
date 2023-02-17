@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="38px" viewBox="0 0 27 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HumiditySensor-On</title>
+    <defs>
+        <linearGradient x1="59.2325928%" y1="110.061606%" x2="50%" y2="4.16333634e-14%" id="linearGradient-1">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HumiditySensor-On" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M26.058,24.579 C26.058,31.766 20.212,37.607 13.029,37.607 C5.846,37.607 0,31.764 0,24.579 C0,18.342 9.105,3.962 10.932,1.142 C11.392,0.43 12.182,0 13.031,0 C13.88,0 14.669,0.43 15.13,1.142 C16.953,3.962 26.058,18.342 26.058,24.579 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

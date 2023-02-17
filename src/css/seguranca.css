@@ -1,0 +1,17 @@
+
+
+/* Secção das cameras */
+  
+.card-camera {
+  border-radius: 15px;
+  width: 100%;
+  background-color: white;
+    color: black;
+    border: none;
+}
+
+.card-camera-video {
+  border-radius: 0px 0px 15px 15px;
+}
+
+

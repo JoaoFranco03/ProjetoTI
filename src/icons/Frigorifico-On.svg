@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="101px" viewBox="0 0 52 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fridge-On</title>
+    <defs>
+        <linearGradient x1="93.7987278%" y1="168.38816%" x2="-13.7944965%" y2="34.4207932%" id="linearGradient-1">
+            <stop stop-color="#C0C0C0" offset="0%"></stop>
+            <stop stop-color="#E4E4E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="80.8095109%" y1="250.07599%" x2="5.1247871%" y2="23.6711406%" id="linearGradient-2">
+            <stop stop-color="#C0C0C0" offset="0%"></stop>
+            <stop stop-color="#E4E4E4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fridge-On" stroke="#4E4E4E">
+            <path d="M47,0.5 C48.2426407,0.5 49.3676407,1.00367966 50.1819805,1.81801948 C50.9963203,2.63235931 51.5,3.75735931 51.5,5 L51.5,5 L51.5,39.5 L0.5,39.5 L0.5,5 C0.5,3.75735931 1.00367966,2.63235931 1.81801948,1.81801948 C2.63235931,1.00367966 3.75735931,0.5 5,0.5 L5,0.5 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M51.5,39.5 L51.5,96 C51.5,97.2426407 50.9963203,98.3676407 50.1819805,99.1819805 C49.3676407,99.9963203 48.2426407,100.5 47,100.5 L47,100.5 L5,100.5 C3.75735931,100.5 2.63235931,99.9963203 1.81801948,99.1819805 C1.00367966,98.3676407 0.5,97.2426407 0.5,96 L0.5,96 L0.5,39.5 L51.5,39.5 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+            <rect id="Rectangle" fill="#FFFFFF" x="4.5" y="50.5" width="4" height="20" rx="1.5"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="4.5" y="10.5" width="4" height="16" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>

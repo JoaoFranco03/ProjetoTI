@@ -1,0 +1,40 @@
+
+
+body {
+    background-image: url('../img/rooms/home.jpg');
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .room {
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .dropdown {
+    padding-top: 10px;
+    height: 50px;
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px) saturate(200%) contrast(45%) brightness(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+    border-radius: 20px;
+  }
+  
+  .card {
+    width: 100%;
+  }
+
+  h1 {
+    color: white;
+  }
+  
+  h2 {
+    color: white;
+  }

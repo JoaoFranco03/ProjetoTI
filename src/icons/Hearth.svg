@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="70px" viewBox="0 0 78 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hearth</title>
+    <defs>
+        <linearGradient x1="50%" y1="-2.56454913%" x2="50%" y2="105.987824%" id="linearGradient-1">
+            <stop stop-color="#C6292B" offset="0%"></stop>
+            <stop stop-color="#D57043" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hearth" transform="translate(-0.000000, -0.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M57.2023057,0.195433562 C49.3263511,0.176037051 42.1484628,4.70944018 38.7816562,11.829528 C34.7728415,3.11626588 25.2175081,-1.60765519 15.8602187,0.497734915 C6.50292937,2.60312502 -0.108211842,10.9645029 0.00134152354,20.5550988 C0.00134152354,41.8842719 38.7816562,70 38.7816562,70 C38.7816562,70 77.5619709,41.8842719 77.5619709,20.5550988 C77.5619709,9.31076617 68.4466383,0.195433562 57.2023057,0.195433562 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

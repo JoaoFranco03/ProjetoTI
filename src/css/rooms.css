@@ -1,0 +1,235 @@
+body {
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.room {
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.dropdown {
+  padding-top: 10px;
+  height: 50px;
+}
+
+.avatar-btn {
+  border-radius: 25px;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.controls {
+  background-color: white;
+  height: 10vh;
+}
+
+.rotinas {
+  color: white;
+  padding-top: 15px;
+  font-weight: 600;
+}
+
+.dispositivos {
+  color: white;
+  padding-top: 50px;
+  font-weight: 600;
+}
+
+.card-On {
+  background-color: white;
+  border-radius: 20px;
+  width: 100%;
+  border: none;
+}
+
+.card-Off {
+  /* From https://css.glass */
+  background: rgba(221, 220, 220, 0.66);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(16.2px);
+  -webkit-backdrop-filter: blur(16.2px);  border-radius: 20px;
+  width: 100%;
+  border: none;
+  color: #989A99;
+}
+
+/* Style buttons */
+.scenes-btn {
+  width: auto;
+  padding-right: 5%;
+  background-color: white;
+  border: none; /* Remove borders */
+  border-radius: 25px;
+  color: black;
+  text-align: center; /* Some padding */
+  font-size: 24px; /* Set a font size */
+  line-height: 75px;
+  cursor: pointer; /* Mouse pointer on hover */
+  text-align: left;
+}
+
+/* Darker background on mouse-over */
+.btn-romance:hover {
+  background: rgb(198,41,43);
+  background: linear-gradient(164deg, rgba(198,41,43,1) 0%, rgba(213,112,67,1) 100%);
+  color: white;
+}
+
+.btn-exit:hover {
+  background: rgb(234,205,163);
+  background: linear-gradient(145deg, rgba(234,205,163,1) 0%, rgba(195,149,91,1) 100%);
+  color: white;
+}
+
+.btn-morning:hover {
+  background: rgb(241,204,121);
+  background: linear-gradient(145deg, rgba(241,204,121,1) 0%, rgba(239,179,131,1) 100%);
+  color: white;
+}
+
+.btn-night:hover {
+  background: rgb(97,113,129);
+  background: linear-gradient(145deg, rgba(97,113,129,1) 0%, rgba(17,48,62,1) 100%);
+  color: white;
+}
+
+.scenes-btn:hover > img{
+  filter: brightness(0) invert(1);
+}
+
+/* Scenes Image */
+.scenes-img {
+  background-color: white; /* Blue background */
+  border: none; /* Remove borders */
+  border-radius: 25px;
+  color: black;
+  width: 100%;
+  text-align: center; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+.icon {
+  float: left;
+  width:  75px;
+  height: 75px;
+  object-fit: contain;
+  padding-left: 10px;
+}
+
+.card-bottom {
+  background-color: white;
+  border-radius: 10px;
+}
+
+.device-icon {
+  width: 40%; /* You can set the dimensions to whatever you want */
+  height: 40%;
+  object-fit:contain;
+}
+
+.card-title {
+  padding-top: 10%;
+}
+
+.card-text {
+  padding-top: 5%;
+  color: #616161;
+}
+
+h2 {
+  color: white;
+}
+
+.btn-glass {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(100%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%) contrast(45%)
+    brightness(140%);
+}
+
+
+
+.d-grid {
+  width: 100%;
+}
+
+.action-text{
+  color: #626262;
+}
+
+input.brightness_bar {
+  -webkit-appearance: none;
+  height: 40px;
+  width: 200px;
+  margin: 0;
+  outline: none;
+  border-radius: 17px;
+  background: red;
+  overflow: hidden;
+  transform-origin:100px 100px;
+  transform: rotate(90deg);
+}
+
+.brightness_bar::-webkit-slider-thumb {
+  -webkit-appearance:none;
+  width: 20px;
+  height: 40px;
+  border-radius: 20px;
+  border: 8px solid white;
+  background: lightgrey;
+  box-shadow: -100vw 0 0 100vw #fff;
+}
+
+.sensors-btn {
+  border-radius: 50%; /* Transforma em Circulo */
+  color: white;
+  background-color: white; 
+  border: none; /* Remove borders */
+  padding: 20px;
+}
+
+.sensor-icon {
+  float: left;
+  width:  75px;
+  height: 75px;
+  object-fit: contain;
+}
+
+label {
+  display: inline-block;
+  width: 6em;
+  margin-right: .5em;
+  padding-top: 1.5em;
+}
+
+.sensor {
+  display: inline-block;
+  text-align: center;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.sensor-text {
+  display: block;
+  color: white;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}

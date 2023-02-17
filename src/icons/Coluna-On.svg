@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="122px" viewBox="0 0 164 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <linearGradient x1="50.4449799%" y1="75.7294004%" x2="49.5550201%" y2="24.2389356%" id="linearGradient-1">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.4449799%" y1="75.7294004%" x2="49.5550201%" y2="24.2389356%" id="linearGradient-2">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="51.8440813%" x2="0%" y2="48.1536493%" id="linearGradient-3">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(3.000000, 0.519685)">
+            <g id="Group-10" transform="translate(0.000000, 33.480315)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+                <g id="Group-9" transform="translate(138.000000, 0.000000)">
+                    <path d="M4.88411904,7.61363636 C1.62803968,18.6300428 0,27.1118241 0,33.0589804 C0,39.0061367 1.62803968,47.7819311 4.88411904,59.3863636" id="Path-3" stroke="url(#linearGradient-1)" transform="translate(2.442060, 33.500000) scale(-1, 1) translate(-2.442060, -33.500000) "></path>
+                    <path d="M20,0 C15.7862502,14.256526 13.6793754,25.2329489 13.6793754,32.9292688 C13.6793754,40.6255886 15.7862502,51.982499 20,67" id="Path-3" stroke="url(#linearGradient-2)" transform="translate(16.839688, 33.500000) scale(-1, 1) translate(-16.839688, -33.500000) "></path>
+                </g>
+                <g id="Group-9" transform="translate(10.000000, 33.500000) scale(-1, 1) translate(-10.000000, -33.500000) " stroke="#979797">
+                    <path d="M4.88411904,7.61363636 C1.62803968,18.6300428 0,27.1118241 0,33.0589804 C0,39.0061367 1.62803968,47.7819311 4.88411904,59.3863636" id="Path-3" transform="translate(2.442060, 33.500000) scale(-1, 1) translate(-2.442060, -33.500000) "></path>
+                    <path d="M20,0 C15.7862502,14.256526 13.6793754,25.2329489 13.6793754,32.9292688 C13.6793754,40.6255886 15.7862502,51.982499 20,67" id="Path-3" transform="translate(16.839688, 33.500000) scale(-1, 1) translate(-16.839688, -33.500000) "></path>
+                </g>
+                <g id="Group-9" transform="translate(10.000000, 33.500000) scale(-1, 1) translate(-10.000000, -33.500000) ">
+                    <path d="M4.88411904,7.61363636 C1.62803968,18.6300428 0,27.1118241 0,33.0589804 C0,39.0061367 1.62803968,47.7819311 4.88411904,59.3863636" id="Path-3" stroke="url(#linearGradient-1)" transform="translate(2.442060, 33.500000) scale(-1, 1) translate(-2.442060, -33.500000) "></path>
+                    <path d="M20,0 C15.7862502,14.256526 13.6793754,25.2329489 13.6793754,32.9292688 C13.6793754,40.6255886 15.7862502,51.982499 20,67" id="Path-3" stroke="url(#linearGradient-2)" transform="translate(16.839688, 33.500000) scale(-1, 1) translate(-16.839688, -33.500000) "></path>
+                </g>
+            </g>
+            <g id="Group-11" transform="translate(31.000000, 0.000000)">
+                <rect id="Rectangle" fill="#D2D0D8" x="0" y="4.22541911" width="95.8264691" height="116.774581" rx="31"></rect>
+                <ellipse id="Oval" fill="#FFFFFF" cx="47.7559271" cy="11.1426127" rx="32.9821335" ry="11.1426127"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-3)" cx="47.9132345" cy="9.57387319" rx="30.0850542" ry="8.05426649"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

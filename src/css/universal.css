@@ -1,0 +1,110 @@
+/* Formatação do título principal */
+
+.main-title {
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Formatação do botão do perfil */
+
+.dropdown-avatar {
+  padding-top: 10px;
+  height: 50px;
+}
+
+.btn-avatar {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(100%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%) contrast(45%)
+    brightness(140%);
+  border-radius: 25px;
+}
+
+.icon-avatar {
+  border-radius: 50%;
+  height: 50px;
+}
+
+/* Cria uma Row Deslizavel para as Rotinas */
+
+.slide-row > .row {
+  display: block;
+  overflow-y: auto;
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+}
+.slide-row > .row > .col-xl.col-lg-3.col-md-4.col-sm-6 {
+  display: inline-block;
+}
+
+/* Circúlos de Informação */
+
+.info {
+  display: inline-block;
+  text-align: center;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.info-btn {
+  border-radius: 50%;
+  color: black;
+  background-color: white;
+  border: none;
+  padding: 20px;
+}
+
+.info-icon {
+  float: left;
+  width: 75px;
+  height: 75px;
+  object-fit:contain;
+}
+
+.info-text {
+  display: block;
+  color: white;
+}
+
+.text-section {
+  color: white;
+}
+
+.sensors-btn {
+  border-radius: 50%;
+  color: white;
+  background-color: white;
+  border: none;
+  padding: 20px;
+}
+
+.sensor-icon {
+  float: left;
+  width: 75px;
+  height: 75px;
+  object-fit: contain;
+}
+
+.sensor-text {
+  display: block;
+  color: white;
+}
+
+.sensor {
+  display: inline-block;
+  text-align: center;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Cria uma Row Deslizavel para as Rotinas */
+div.scroll-x {
+  overflow: auto;
+  white-space: nowrap;
+}

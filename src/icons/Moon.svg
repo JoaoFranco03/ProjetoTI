@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="71px" viewBox="0 0 69 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Moon</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.3473558%" id="linearGradient-1">
+            <stop stop-color="#DDDDDD" offset="0%"></stop>
+            <stop stop-color="#949390" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Moon" transform="translate(0.508621, 0.129310)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M56.8084743,52.0604818 C36.9942764,52.0604818 20.9294379,35.9956433 20.9294379,16.1814454 C20.9294379,10.351102 22.3496498,4.86459935 24.8163335,0 C10.4198702,4.66427473 0,18.169742 0,34.1209636 C0,53.9351615 16.0648385,70 35.8790364,70 C49.8658807,70 61.9511362,61.9810354 67.8711772,50.302409 C64.3849308,51.4325987 60.6714505,52.0604818 56.8084743,52.0604818 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

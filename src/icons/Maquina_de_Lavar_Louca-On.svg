@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="62px" viewBox="0 0 52 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Dishwasher-On</title>
+    <defs>
+        <linearGradient x1="99.8824338%" y1="137.75185%" x2="14.8283039%" y2="-2.22273951%" id="linearGradient-1">
+            <stop stop-color="#C0C0C0" offset="0%"></stop>
+            <stop stop-color="#E4E4E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="55.480819%" x2="0%" y2="44.512436%" id="linearGradient-2">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dishwasher-On" stroke="#4E4E4E">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="51" height="61" rx="5"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="20.5" y="3.5" width="12" height="5" rx="1.5"></rect>
+            <line x1="0.569688298" y1="11.7128814" x2="52" y2="11.7128814" id="Path-6"></line>
+            <polygon id="Path-8" fill="#4E4E4E" points="15.8425731 12.6031101 17.7645667 14.3567534 35.1422634 14.3567534 36.8425731 12.6031101"></polygon>
+        </g>
+    </g>
+</svg>

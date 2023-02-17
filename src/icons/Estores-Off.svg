@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="121px" viewBox="0 0 121 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cortina - Fechada</title>
+    <defs>
+        <linearGradient x1="100%" y1="70.1343977%" x2="0%" y2="29.8408239%" id="linearGradient-1">
+            <stop stop-color="#C2E9FB" offset="0%"></stop>
+            <stop stop-color="#A1C4FD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="1.96747967" y="4.4970964" width="1" height="5.76190476" rx="0.5"></rect>
+        <filter x="-203.3%" y="-34.7%" width="506.6%" height="169.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="118.04878" y="4.4970964" width="1" height="5.76190476" rx="0.5"></rect>
+        <filter x="-203.3%" y="-34.7%" width="506.6%" height="169.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="2.95121951" y="4.4970964" width="115.097561" height="5.76190476" rx="2.88095238"></rect>
+        <filter x="-1.7%" y="-34.7%" width="103.5%" height="169.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cortina---Fechada">
+            <rect id="Rectangle" stroke="#E2E2E2" fill="#FFFFFF" x="0.5" y="0.5" width="120" height="120" rx="3"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="4" y="71" width="52" height="46"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="64" y="71" width="52" height="46"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="4" y="19" width="52" height="46"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="64" y="19" width="52" height="46"></rect>
+            <g id="Group-2">
+                <rect id="Rectangle-3" fill="#D8D8D8" x="0" y="1.82694541" width="1.96747967" height="9.41579559" rx="0.983739837"></rect>
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                </g>
+                <rect id="Rectangle" fill="#8086A1" x="3.65389082" y="8.29036005" width="114" height="104" rx="1"></rect>
+                <g id="Rectangle">
+                    <use fill="#5B6078" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                </g>
+                <rect id="Rectangle" fill="#D8D8D8" x="119.03252" y="1.82694541" width="1.96747967" height="9.41579559" rx="0.983739837"></rect>
+                <path d="M3.65389082,0 L117.346109,0 C119.364097,-4.3675013e-15 121,1.63590264 121,3.65389082 L121,3.65389082 L121,3.65389082 L0,3.65389082 C-2.47132277e-16,1.63590264 1.63590264,3.70698415e-16 3.65389082,0 Z" id="Rectangle" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

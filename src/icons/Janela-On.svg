@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="51px" viewBox="0 0 48 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 22</title>
+    <defs>
+        <linearGradient x1="62.0146098%" y1="75.7294004%" x2="37.9853902%" y2="24.2389356%" id="linearGradient-1">
+            <stop stop-color="#FBAB7E" offset="0%"></stop>
+            <stop stop-color="#F7CE68" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="56.8979592%" y1="75.7294004%" x2="43.1020408%" y2="24.2389356%" id="linearGradient-2">
+            <stop stop-color="#FBAB7E" offset="0%"></stop>
+            <stop stop-color="#F7CE68" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22" stroke="#E4E4E4">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="24" height="50" rx="9"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="35.5" y="8.5" width="12" height="34" rx="5"></rect>
+        </g>
+    </g>
+</svg>

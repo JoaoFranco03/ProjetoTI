@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="120px" viewBox="0 0 96 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="95.8264691" height="116.774581" rx="31"></rect>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(0.000000, 0.039292)">
+            <g id="Oval" transform="translate(0.000000, 2.705812)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#A3A2A9" xlink:href="#path-1"></use>
+                <ellipse fill="#FFFFFF" mask="url(#mask-2)" cx="47.7559271" cy="6.91719357" rx="32.9821335" ry="11.1426127"></ellipse>
+            </g>
+            <ellipse id="Oval" fill="#999999" cx="47.9132345" cy="8.05426649" rx="30.0850542" ry="8.05426649"></ellipse>
+        </g>
+    </g>
+</svg>

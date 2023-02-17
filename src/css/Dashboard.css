@@ -1,0 +1,34 @@
+
+
+body {
+  background-image: url("../img/rooms/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.card-waze{
+  height: 480px;
+  border-radius: 30px
+}
+
+.card-weather{
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+}
+
+.card-spotify{
+  margin-bottom: 15px;
+  height: 233px;
+  border-radius: 30px;
+  background-color: black;
+}
+
+.card-news{
+  height: 233px;
+  border-radius: 30px;
+  background-color: white;
+}
+

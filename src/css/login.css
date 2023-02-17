@@ -1,0 +1,49 @@
+.photoColumn {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+@media screen and (max-width: 767px) {
+  .photoColumn {
+    width: 100%;
+    height: 25vh;
+    object-fit: cover;
+  }
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: red;
+}
+h6 {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #c6cfd9;
+}
+label {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  color: #3b4a59;
+}
+button {
+  margin-top: 5%;
+  width: 35%;
+  height: 65%;
+}
+.logo {
+  width: 25%;
+}
+@media screen and (max-width: 767px) {
+  .logo {
+    width: 50%;
+  }
+}
+
+.alert {
+  margin-bottom: 0px;
+}

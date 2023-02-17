@@ -110,7 +110,7 @@ To get a local copy up and running follow these simple example steps.
 
 João Franco - https://www.linkedin.com/in/joão-franco-452161195/
 
-Project Link: [https://github.com/JoaoFranco03/La-Redoute-Redesign/](https://github.com/JoaoFranco03/La-Redoute-Redesign/)
+Project Link: [https://github.com/JoaoFranco03/ProjetoTI](https://github.com/JoaoFranco03/ProjetoTI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
